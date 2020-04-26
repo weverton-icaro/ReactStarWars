@@ -1,0 +1,9 @@
+h1 {
+  width: 100%;
+  height: 60px;
+  background: lightseagreen;
+  color: snow;
+  align-items: center;
+  border-radius: 5px;
+  justify-content: center;
+}
